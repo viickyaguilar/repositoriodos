@@ -4,3 +4,6 @@ uvas
 naranja
 sandia
 pera
+melon 
+durazno
+cereza
